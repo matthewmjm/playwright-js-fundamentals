@@ -1,0 +1,19 @@
+{
+  "name": "js-fundamentals",
+  "version": "1.0.0",
+  "description": "JavaScript Fundamentals portion of Playwright Zero to Hero course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthewmjm/playwright-js-fundamentals.git"
+  },
+  "author": "Matthew Malecki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matthewmjm/playwright-js-fundamentals/issues"
+  },
+  "homepage": "https://github.com/matthewmjm/playwright-js-fundamentals#readme"
+}
